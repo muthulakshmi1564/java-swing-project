@@ -18,7 +18,7 @@ A desktop-based Quiz Application built using Java Swing. Users can answer multip
 - Event handling with ActionListener
 
 ## How to Run
-1. Open project in any Java IDE (Eclipse, IntelliJ, NetBeans).
+1. Open project in any Java IDE (Eclipse).
 2. Run `quiz.java` file.
 3. Alternatively, compile and run from terminal:
    ```bash
